@@ -62,6 +62,10 @@ SSH Configuration (continued):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788348028844-86682d2d-b682-4d34-be58-ea4e721a4a1d.png" alt="SSH Configuration" />
 <br />
 <br />
+SSH Configuration (continued):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788349472605-c13fbd5b-2431-4417-87d9-9da06f715b92.png" alt="SSH Configuration" />
+<br />
+<br />
  
 </p>
 
