@@ -54,6 +54,15 @@ Router DHCP Configuration (continued):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788346830053-c6b86169-a53c-4d7f-83fb-4310281591a2.png" alt="DHCP Configuration" />
 <br />
 <br />
+SSH Configuration:  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788347531109-e5c47e6f-b3a1-4bdb-b511-8fbfe9fa8403.png" alt="SSH Configuration" />
+<br />
+<br />
+SSH Configuration (continued):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788348028844-86682d2d-b682-4d34-be58-ea4e721a4a1d.png" alt="SSH Configuration" />
+<br />
+<br />
+ 
 </p>
 
 <!--
