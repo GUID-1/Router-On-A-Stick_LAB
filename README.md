@@ -1,18 +1,18 @@
 # Router-On-A-Stick_LAB
 Configuring a Router-On-A-Stick Topology: VLANS, Subinterfaces, 802.1Q encapsulation, IP Addressing, DHCP &amp; SSH configuration 
 
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Router-On-A-Stick Packet Tracer Home Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of a simple Router-On-A-Stick topology that incorporates the configuration of DHCP, SSH, VLANS, 802.1Q encapsulation, access point, & static IP addressing  
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
+- <b>Cisco CLI</b> 
 - <b>Diskpart</b>
 
 <h2>Environments Used </h2>
