@@ -43,10 +43,17 @@ Router Subinterface Configuration (continued):  <br/>
 <br />
 Router Subinterface Configuration (continued):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788339247988-1230d506-da28-4967-bbf0-9eb8329735bc.png" alt="Router Configuration Steps" />
+ Add a /26 subnet mask for the ip addr 192.168.1.129
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Router DHCP Configuration:  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788346272982-4b5f063a-fedd-4979-943a-7cf38bb07b56.png" alt="DHCP Configuration" />
+<br />
+<br />
+Router DHCP Configuration (continued):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788346830053-c6b86169-a53c-4d7f-83fb-4310281591a2.png" alt="DHCP Configuration" />
+<br />
+<br />
 </p>
 
 <!--
