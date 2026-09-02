@@ -41,8 +41,8 @@ Router Subinterface Configuration (continued):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788319519484-442844d6-1e86-4119-a98e-c958deccb4e2.png" alt="Router Configuration Steps" />
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Router Subinterface Configuration (continued):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788339247988-1230d506-da28-4967-bbf0-9eb8329735bc.png" alt="Router Configuration Steps" />
 <br />
 <br />
 Observe the wiped disk:  <br/>
