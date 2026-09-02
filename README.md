@@ -13,7 +13,6 @@ Project consists of a simple Router-On-A-Stick topology that incorporates the co
 <h2>Languages and Utilities Used</h2>
 
 - <b>Cisco CLI</b> 
-- <b>Diskpart</b>
 
 <h2>Environments Used </h2>
 
