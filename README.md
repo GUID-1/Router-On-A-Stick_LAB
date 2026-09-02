@@ -25,8 +25,8 @@ VLAN configuration: <br/>
 <img src="https://www.image2url.com/r2/default/images/1788313780814-1e888172-9a0d-4f15-9af0-40129356d8f4.png" alt="Vlan Config Steps" />
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Switchport Access Config:  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788317218312-b8258876-8c00-477d-9569-9f451638eb29.png" alt="Switchport Access Config Steps" />
 <br />
 <br />
 Enter the number of passes: <br/>
