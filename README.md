@@ -17,7 +17,7 @@ Project consists of a simple Router-On-A-Stick topology that incorporates the co
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Packet Tracer 9.0</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
