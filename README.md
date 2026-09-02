@@ -29,16 +29,16 @@ Switchport Access Config:  <br/>
 <img src="https://www.image2url.com/r2/default/images/1788317218312-b8258876-8c00-477d-9569-9f451638eb29.png" alt="Switchport Access Config Steps" />
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Switchport Access Config: <br/>
+<img src="https://www.image2url.com/r2/default/images/1788317969341-d070d81b-7573-40fe-a084-e0eccf09af29.png" alt="Switchport Access Config Steps Con't" />
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Router Subinterface Configuration:  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788319329643-999dffca-61ae-4899-b9e2-c374250e49a1.png" alt="Router Configuration Steps" />
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Router Subinterface Configuration (continued):  <br/>
+<img src="https://www.image2url.com/r2/default/images/1788319519484-442844d6-1e86-4119-a98e-c958deccb4e2.png" alt="Router Configuration Steps" />
 <br />
 <br />
 Sanitization complete:  <br/>
