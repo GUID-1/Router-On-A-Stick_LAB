@@ -18,11 +18,11 @@ Project consists of a simple Router-On-A-Stick topology that incorporates the co
 
 - <b>Packet Tracer 9.0</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Configuration walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+VLAN configuration: <br/>
+<img src="https://www.image2url.com/r2/default/images/1788313780814-1e888172-9a0d-4f15-9af0-40129356d8f4.png" alt="Vlan Config Steps" />
 <br />
 <br />
 Select the disk:  <br/>
