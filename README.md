@@ -3,7 +3,7 @@ Configuring a Router-On-A-Stick Topology: VLANS, Subinterfaces, 802.1Q encapsula
 
 <h1>Router-On-A-Stick Packet Tracer Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration]([https://youtu.be/7eJexJVCqJo](https://youtu.be/2eN5QdSPeBk))
 
 <h2>Description</h2>
 Project consists of a simple Router-On-A-Stick topology that incorporates the configuration of DHCP, SSH, VLANS, 802.1Q encapsulation, access point, & static IP addressing  
